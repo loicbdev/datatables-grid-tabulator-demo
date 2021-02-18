@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
-    <h1>Sorting Tables in a Vue CLI 3 project</h1>
+    <h1>Sorting Tables in a Vue CLI project</h1>
     <p>
       Demo : Databases / Tabulator / Grid.js
     </p>
